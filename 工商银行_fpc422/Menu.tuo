@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252" ?>
+<TKStudioOptions Version="3.00" Author="YinHandong[Òüº®¶¬]">
+    <Projects OPTPES="96,96,0,2,">
+        <Project ProjectGUID="{C059EFD4-15FE-42a1-ACD7-35C3A66BC744}" Name="Menu" ACTCFG="Target 1">
+            <TARGOPT Name="Target 1" OPTDF="0">
+                <OPTFFF VAL="&lt;.\Menu.c&gt; {2,3,-1,-1,0,0,1165,414,426,414}" />
+            </TARGOPT>
+        </Project>
+    </Projects>
+</TKStudioOptions>
