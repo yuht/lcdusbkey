@@ -1,3 +1,7 @@
+<a href="https://996.icu"><img src="https://img.shields.io/badge/link-996.icu-red.svg" alt="996.icu" /></a>
+[![LICENSE](https://img.shields.io/badge/license-Anti%20996-blue.svg)](https://github.com/996icu/996.ICU/blob/master/LICENSE)
+
+
 # LCD银行U盾
 1.把玩过的带LCD的各银行的U盾，具体看里面的图片。文件夹名字中附带了LCD排线文字。
 
